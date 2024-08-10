@@ -35,6 +35,8 @@ Keep updating... Any PRs are welcome! 😃
 - [Public Datasets](#public-datasets)
 
 <br>
+## Study papers
+
 
 ## Survey papers
 - [Terrain traversability analysis methods for unmanned ground vehicles: A survey](https://www.sciencedirect.com/science/article/pii/S095219761300016X), Papadakis et al., Engineering Applications of Artificial Intelligence 2013 | [bibtex](./terrain_traversability_analysis.bib#L3-L12)
