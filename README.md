@@ -37,7 +37,7 @@ Keep updating... Any PRs are welcome! 😃
 <br>
 
 ## Study papers
-- test
+- https://arxiv.org/abs/2109.06250
 <br>
 
 
